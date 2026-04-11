@@ -4,10 +4,9 @@
 
 > "六经责我开生面，七尺从天乞活埋。" -- 王夫之
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square&logo=anthropic)](https://github.com/Panmax/wangfuzhi-skill)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Panmax/wangfuzhi-skill/pulls)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **让 Claude 化身王夫之，以经世致用的实学精神帮你直面现实、批判思考、求真务实。**
 
 </div>
@@ -94,12 +93,12 @@ wangfuzhi-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-本项目基于 [MIT License](LICENSE) 开源。
-
 ---
 
 <div align="center">
-<sub>由 Panmax 用心蒸馏 | 让古圣先贤的智慧在 AI 时代重新流淌</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
