@@ -70,8 +70,6 @@ npx skills add nuwa-skills/wangfuzhi-skill
 - 《王夫之评传》-- 萧萐父、许苏民
 - 《王船山哲学》-- 曾昭旭
 
-详细调研笔记见 [references/research.md](references/research.md)。
-
 ---
 
 ## 仓库结构
@@ -80,11 +78,7 @@ npx skills add nuwa-skills/wangfuzhi-skill
 wangfuzhi-skill/
 ├── SKILL.md                      # Skill 核心定义文件
 ├── README.md                     # 项目说明
-├── LICENSE                       # MIT 许可证
-├── examples/
-│   └── demo-conversation.md      # 完整对话示例
-└── references/
-    └── research.md               # 调研笔记与资料汇编
+└── LICENSE                       # MIT 许可证
 ```
 
 ---
