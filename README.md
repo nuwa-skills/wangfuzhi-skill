@@ -78,7 +78,9 @@ npx skills add nuwa-skills/wangfuzhi-skill
 wangfuzhi-skill/
 ├── SKILL.md                      # Skill 核心定义文件
 ├── README.md                     # 项目说明
-└── LICENSE                       # MIT 许可证
+├── LICENSE                       # MIT 许可证
+└── references/                   # 扩展资料
+    └── detail.md                 # 扩展资料（附录、思想来源、概念速查等）
 ```
 
 ---
